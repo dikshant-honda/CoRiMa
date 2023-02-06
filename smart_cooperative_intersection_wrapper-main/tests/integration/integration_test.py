@@ -44,9 +44,9 @@ def main() -> None:
     failed = False
 
     for path in Path("smart_cooperative_intersection_wrapper-main/data/Export_Honda").glob("*"):
-        honda_export_file_path = path.joinpath("sample.json")
-        processed_data_file_path = path.joinpath("processed_sample_data.json")
-        
+        honda_export_file_path = path.joinpath("honda_export.json")
+        processed_data_file_path = path.joinpath("processed_data.json")
+
         print(f"Testing: {honda_export_file_path.as_posix()}")
 
         with processed_data_file_path.open() as file:
