@@ -41,14 +41,6 @@ def predict_collisions(
     #     UNCERTAINTY_CONFIG[ObjectType.PEDESTRIAN]
     # )
 
-    # uncertain_ego_trajectory = Trajectory.linear_prediction(
-    #         trajectory_id=datapoints[0].id,
-    #         position=datapoints[0].position,
-    #         velocity=datapoints[0].velocity,
-    #         delta_t=delta_t,
-    #         trajectory_length=trajectory_length,
-    #     ).uncertain(_find_config(datapoints[0].type) if with_types else _find_config("car"))
-
     # uncertain_trajectories = [
     #     Trajectory.linear_prediction(
     #         trajectory_id=datapoint.id,
