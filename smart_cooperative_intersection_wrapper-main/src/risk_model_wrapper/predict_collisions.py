@@ -88,5 +88,7 @@ def predict_collisions(
         probability = compute_survival(events, delta_t=delta_t)
         result.append((ego, probability))
 
+        # getting the risks as a list, is it the risk with respect to other vehicle. how can i define my own risk value.
+
     # return list(zip(datapoints, compute_survival(events, delta_t=delta_t)))
     return result
