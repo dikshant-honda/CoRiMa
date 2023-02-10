@@ -62,29 +62,31 @@ def predict_collisions(
 
     result = []
     # compare risk with respect to every other vehicle
-    uncertain_trajectories = []
-    for i in datapoints:
+    for ego in datapoints:
         uncertain_ego_trajectory = Trajectory.linear_prediction(
-            trajectory_id=datapoints[i].id,
-            position=datapoints[i].position,
-            velocity=datapoints[i].velocity,
+            trajectory_id=ego.id,
+            position=ego.position,
+            velocity=ego.velocity,
             delta_t=delta_t,
             trajectory_length=trajectory_length,
-        ).uncertain(_find_config(datapoints[i].type) if with_types else _find_config("car"))
+        ).uncertain(_find_config(ego.type) if with_types else _find_config("car"))
 
-        for datapoint in datapoints:
-            if datapoint != i: 
+        uncertain_trajectories = []
+        
+        for traffic in datapoints:
+            if traffic != ego: 
                 uncertain_trajectories.append(
                 Trajectory.linear_prediction(
-                    trajectory_id=datapoint.id,
-                    position=datapoint.position,
-                    velocity=datapoint.velocity,
+                    trajectory_id=traffic.id,
+                    position=traffic.position,
+                    velocity=traffic.velocity,
                     delta_t=delta_t,
                     trajectory_length=trajectory_length,
-                ).uncertain(_find_config(datapoint.type) if with_types else _find_config("car")))
+                ).uncertain(_find_config(traffic.type) if with_types else _find_config("car")))
 
         events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
         probability = compute_survival(events, delta_t=delta_t)
+        result.append((ego, probability))
 
-
-    return list(zip(datapoints, compute_survival(events, delta_t=delta_t)))
+    # return list(zip(datapoints, compute_survival(events, delta_t=delta_t)))
+    return result
