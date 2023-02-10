@@ -37,20 +37,36 @@ def predict_collisions(
 ) -> list[tuple[DataPoint, Probability]]:
     """Predict collision risks with a static ego."""
 
-    uncertain_ego_trajectory = Trajectory.static_ego(delta_t=delta_t, trajectory_length=trajectory_length).uncertain(
-        UNCERTAINTY_CONFIG[ObjectType.PEDESTRIAN]
-    )
+    # uncertain_ego_trajectory = Trajectory.static_ego(delta_t=delta_t, trajectory_length=trajectory_length).uncertain(
+    #     UNCERTAINTY_CONFIG[ObjectType.PEDESTRIAN]
+    # )
 
-    uncertain_trajectories = [
-        Trajectory.linear_prediction(
-            trajectory_id=datapoint.id,
-            position=datapoint.position,
-            velocity=datapoint.velocity,
+    uncertain_ego_trajectory = Trajectory.linear_prediction(
+            trajectory_id=datapoints[0].id,
+            position=datapoints[0].position,
+            velocity=datapoints[0].velocity,
             delta_t=delta_t,
             trajectory_length=trajectory_length,
-        ).uncertain(_find_config(datapoint.type) if with_types else _find_config("car"))
-        for datapoint in datapoints
-    ]
+        ).uncertain(_find_config(datapoints[0].type) if with_types else _find_config("car"))
+
+    uncertain_trajectories = [Trajectory.linear_prediction(
+            trajectory_id=datapoints[1].id,
+            position=datapoints[1].position,
+            velocity=datapoints[1].velocity,
+            delta_t=delta_t,
+            trajectory_length=trajectory_length,
+        ).uncertain(_find_config(datapoints[1].type) if with_types else _find_config("car"))]
+
+    # uncertain_trajectories = [
+    #     Trajectory.linear_prediction(
+    #         trajectory_id=datapoint.id,
+    #         position=datapoint.position,
+    #         velocity=datapoint.velocity,
+    #         delta_t=delta_t,
+    #         trajectory_length=trajectory_length,
+    #     ).uncertain(_find_config(datapoint.type) if with_types else _find_config("car"))
+    #     for datapoint in datapoints
+    # ]
 
     events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
 
