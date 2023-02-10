@@ -41,21 +41,13 @@ def predict_collisions(
     #     UNCERTAINTY_CONFIG[ObjectType.PEDESTRIAN]
     # )
 
-    uncertain_ego_trajectory = Trajectory.linear_prediction(
-            trajectory_id=datapoints[0].id,
-            position=datapoints[0].position,
-            velocity=datapoints[0].velocity,
-            delta_t=delta_t,
-            trajectory_length=trajectory_length,
-        ).uncertain(_find_config(datapoints[0].type) if with_types else _find_config("car"))
-
-    uncertain_trajectories = [Trajectory.linear_prediction(
-            trajectory_id=datapoints[1].id,
-            position=datapoints[1].position,
-            velocity=datapoints[1].velocity,
-            delta_t=delta_t,
-            trajectory_length=trajectory_length,
-        ).uncertain(_find_config(datapoints[1].type) if with_types else _find_config("car"))]
+    # uncertain_ego_trajectory = Trajectory.linear_prediction(
+    #         trajectory_id=datapoints[0].id,
+    #         position=datapoints[0].position,
+    #         velocity=datapoints[0].velocity,
+    #         delta_t=delta_t,
+    #         trajectory_length=trajectory_length,
+    #     ).uncertain(_find_config(datapoints[0].type) if with_types else _find_config("car"))
 
     # uncertain_trajectories = [
     #     Trajectory.linear_prediction(
@@ -68,6 +60,31 @@ def predict_collisions(
     #     for datapoint in datapoints
     # ]
 
-    events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
+    result = []
+    # compare risk with respect to every other vehicle
+    uncertain_trajectories = []
+    for i in datapoints:
+        uncertain_ego_trajectory = Trajectory.linear_prediction(
+            trajectory_id=datapoints[i].id,
+            position=datapoints[i].position,
+            velocity=datapoints[i].velocity,
+            delta_t=delta_t,
+            trajectory_length=trajectory_length,
+        ).uncertain(_find_config(datapoints[i].type) if with_types else _find_config("car"))
+
+        for datapoint in datapoints:
+            if datapoint != i: 
+                uncertain_trajectories.append(
+                Trajectory.linear_prediction(
+                    trajectory_id=datapoint.id,
+                    position=datapoint.position,
+                    velocity=datapoint.velocity,
+                    delta_t=delta_t,
+                    trajectory_length=trajectory_length,
+                ).uncertain(_find_config(datapoint.type) if with_types else _find_config("car")))
+
+        events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
+        probability = compute_survival(events, delta_t=delta_t)
+
 
     return list(zip(datapoints, compute_survival(events, delta_t=delta_t)))
