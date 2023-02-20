@@ -1,0 +1,58 @@
+default:
+    image: dmz-gitlab.honda-ri.de:5050/gitlabrunner/buildcontainers/risk-model
+
+    before_script:
+        - export POETRY_HTTP_BASIC_GITLAB_USERNAME=gitlab-ci-token
+        - export POETRY_HTTP_BASIC_GITLAB_PASSWORD="$CI_JOB_TOKEN"
+        - export PIP_INDEX_URL=https://gitlab-ci-token:${CI_JOB_TOKEN}@dmz-gitlab.honda-ri.de/api/v4/projects/441/packages/pypi/simple
+        - poetry config virtualenvs.in-project true
+        - poetry install
+
+    cache:
+        paths:
+            - .venv
+
+bst checks:
+  image: dmz-gitlab.honda-ri.de:5050/gitlabrunner/buildcontainers/hri-eu-main
+  before_script: []
+  script:
+    - ./ci-bst-checks.sh
+
+poetry lockfile check:
+    script:
+        - poetry lock --check
+
+format:
+    script:
+        - ./ci-format.sh --check
+
+typing:
+    script:
+        - ./ci-typing.sh
+
+lint:
+    script:
+        - ./ci-lint.sh | tee pylint.report
+    artifacts:
+        paths:
+            - pylint.report
+        expire_in: 1 hour
+
+integration tests:
+    script:
+        - ./ci-integration-tests.sh
+
+build:
+    script:
+        - poetry build
+    artifacts:
+        paths:
+            - dist
+        expire_in: 1 day
+    needs:
+        - bst checks
+        - poetry lockfile check
+        - format
+        - typing
+        - lint
+        - integration tests
