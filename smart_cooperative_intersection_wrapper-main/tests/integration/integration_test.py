@@ -42,8 +42,8 @@ def compare_risks(input1, input2) -> str:
 def main() -> None:
     """Loads data from file, predicts risk, and compares it to previously stored data."""
     failed = False
-
-    for path in Path("../../data/Export_Honda").glob("*"):
+    
+    for path in Path("smart_cooperative_intersection_wrapper-main/data/Export_Honda").glob("*"):
         honda_export_file_path = path.joinpath("honda_export.json")
         processed_data_file_path = path.joinpath("processed_data.json")
 
