@@ -18,6 +18,8 @@ from risk_model.event_calculators.overlap_calculator import calculate_overlaps
 from .config import UNCERTAINTY_CONFIG, ObjectType
 from .model import DataPoint
 
+from risk_model.plot import plot_gaussians
+
 
 def _find_config(config_type: str) -> UncertaintyConfig:
     object_type = {
@@ -51,7 +53,7 @@ def predict_collisions(
         ).uncertain(_find_config(datapoint.type) if with_types else _find_config("car"))
         for datapoint in datapoints
     ]
-
+    plot_gaussians(uncertain_trajectories)
     events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
 
     return list(zip(datapoints, compute_survival(events, delta_t=delta_t)))
