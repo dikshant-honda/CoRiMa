@@ -54,7 +54,7 @@ def predict_collisions(
         ).uncertain(_find_config(datapoint.type) if with_types else _find_config("car"))
         for datapoint in datapoints
     ]
-    # plot_gaussians(uncertain_trajectories)
+    plot_gaussians(uncertain_trajectories)
     # animate(uncertain_trajectories)
     events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
 
