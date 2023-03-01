@@ -60,7 +60,7 @@ def predict_collisions(
     result = []
     # compare risk with respect to every other vehicle
     for ego in datapoints:
-        uncertain_ego_trajectory = Trajectory.linear_prediction(
+        uncertain_ego_trajectory = Trajectory.future_prediction(
             trajectory_id=ego.id,
             position=ego.position,
             velocity=ego.velocity,
@@ -73,7 +73,7 @@ def predict_collisions(
         for traffic in datapoints:
             if traffic != ego: 
                 uncertain_trajectories.append(
-                Trajectory.linear_prediction(
+                Trajectory.future_prediction(
                     trajectory_id=traffic.id,
                     position=traffic.position,
                     velocity=traffic.velocity,
@@ -87,5 +87,6 @@ def predict_collisions(
 
         # getting the risks as a list, is it the risk with respect to other vehicle. how can i define my own risk value.
     # animate(uncertain_ego_trajectory ,uncertain_trajectories)
+    # plot_gaussians(uncertain_trajectories)
     # return list(zip(datapoints, compute_survival(events, delta_t=delta_t)))
     return result
