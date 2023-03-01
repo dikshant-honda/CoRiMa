@@ -30,8 +30,8 @@ for i in range(len(x1)):
             {"data":[
                     {
                         "type":"object",
-                        "position":[0, 0, 0],
-                        "velocity":[0, 0.0, 0],
+                        "position":[x1[i], y1[i], 0],
+                        "velocity":[0, 0.7, 0],
                         "label_id": 14,
                         "label_name": "pedestrian",
                         "tracking_id": 14
