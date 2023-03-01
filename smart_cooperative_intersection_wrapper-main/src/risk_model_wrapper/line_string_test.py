@@ -16,5 +16,7 @@ for i in range(len(p)):
 
 xs = [point.x for point in trajectory]
 ys = [point.y for point in trajectory]
+
+print(trajectory)
 plt.scatter(xs, ys)
 plt.show()

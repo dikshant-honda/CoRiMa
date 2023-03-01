@@ -70,8 +70,11 @@ line = LineString(points)
 vel = 0.7
 p = []
 
-for t in range(100):
-    p.append(vel*t)
+for t in range(240):
+    p.append(vel*t*0.05)
+
+print(p[-1])
+print(line.length)
 
 trajectory = []
 
