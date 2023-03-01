@@ -1,5 +1,5 @@
 {
-    "1677576777.4873197": {
+    "1677632903.655916": {
         "data": [
             {
                 "type": "object",
@@ -32,26 +32,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.998512780170573,
-                    0.9004324077700668,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873261": {
+    "1677632903.6559217": {
         "data": [
             {
                 "type": "object",
@@ -84,26 +68,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.998497020262745,
-                    0.9004366732703207,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873285": {
+    "1677632903.6559236": {
         "data": [
             {
                 "type": "object",
@@ -136,26 +104,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.998493080215841,
-                    0.9004377396897205,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.48733": {
+    "1677632903.6559253": {
         "data": [
             {
                 "type": "object",
@@ -188,26 +140,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.995989967648145,
-                    0.9004540050000416,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873316": {
+    "1677632903.6559265": {
         "data": [
             {
                 "type": "object",
@@ -240,26 +176,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.987490968274875,
-                    0.9004502303496964,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873345": {
+    "1677632903.6559277": {
         "data": [
             {
                 "type": "object",
@@ -292,26 +212,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.987490968274875,
-                    0.9004502303496964,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.48734": {
+    "1677632903.6559289": {
         "data": [
             {
                 "type": "object",
@@ -344,26 +248,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.973409921098868,
-                    0.9004132211073521,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873416": {
+    "1677632903.65593": {
         "data": [
             {
                 "type": "object",
@@ -396,26 +284,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.954172414951689,
-                    0.9003237926132373,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487343": {
+    "1677632903.6559327": {
         "data": [
             {
                 "type": "object",
@@ -448,26 +320,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.929126795407107,
-                    0.8998356230378514,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873462": {
+    "1677632903.6559339": {
         "data": [
             {
                 "type": "object",
@@ -500,26 +356,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.898233746143173,
-                    0.8991785810098193,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873476": {
+    "1677632903.655935": {
         "data": [
             {
                 "type": "object",
@@ -552,26 +392,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.863399724854519,
-                    0.8985486679147807,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873493": {
+    "1677632903.6559372": {
         "data": [
             {
                 "type": "object",
@@ -604,26 +428,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.82841139465685,
-                    0.8979222607527462,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487351": {
+    "1677632903.6559396": {
         "data": [
             {
                 "type": "object",
@@ -656,26 +464,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.793443134975355,
-                    0.897305031466211,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873526": {
+    "1677632903.6559408": {
         "data": [
             {
                 "type": "object",
@@ -708,26 +500,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.758460582121414,
-                    0.8967044893571586,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873545": {
+    "1677632903.655942": {
         "data": [
             {
                 "type": "object",
@@ -760,26 +536,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.72348245847003,
-                    0.8961232657433255,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873562": {
+    "1677632903.6559443": {
         "data": [
             {
                 "type": "object",
@@ -812,26 +572,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.688503291270118,
-                    0.8955539771536604,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873595": {
+    "1677632903.6559458": {
         "data": [
             {
                 "type": "object",
@@ -864,26 +608,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.65354639889965,
-                    0.8950061869860826,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487361": {
+    "1677632903.655947": {
         "data": [
             {
                 "type": "object",
@@ -916,26 +644,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.61858848986391,
-                    0.8944730766567834,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873633": {
+    "1677632903.6559484": {
         "data": [
             {
                 "type": "object",
@@ -968,26 +680,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.583623819732715,
-                    0.8939538928735552,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873648": {
+    "1677632903.6559496": {
         "data": [
             {
                 "type": "object",
@@ -1020,26 +716,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.548635139739996,
-                    0.8934418481336189,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873662": {
+    "1677632903.6559508": {
         "data": [
             {
                 "type": "object",
@@ -1072,26 +752,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.478657298250594,
-                    0.8924630483131857,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873676": {
+    "1677632903.655953": {
         "data": [
             {
                 "type": "object",
@@ -1124,26 +788,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.443668210731463,
-                    0.8919952378166275,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873703": {
+    "1677632903.6559556": {
         "data": [
             {
                 "type": "object",
@@ -1176,26 +824,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.408680560588811,
-                    0.8915408925875439,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873726": {
+    "1677632903.6559567": {
         "data": [
             {
                 "type": "object",
@@ -1228,26 +860,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.373699902874012,
-                    0.8911000241147241,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487374": {
+    "1677632903.655958": {
         "data": [
             {
                 "type": "object",
@@ -1280,26 +896,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.33870988411622,
-                    0.8906708176424148,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873753": {
+    "1677632903.6559591": {
         "data": [
             {
                 "type": "object",
@@ -1332,26 +932,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.303719663161003,
-                    0.8902540626665284,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873784": {
+    "1677632903.6559603": {
         "data": [
             {
                 "type": "object",
@@ -1384,26 +968,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.268729263416192,
-                    0.8898494553294916,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487382": {
+    "1677632903.6559625": {
         "data": [
             {
                 "type": "object",
@@ -1436,26 +1004,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.233738707369362,
-                    0.8894566367068808,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873843": {
+    "1677632903.6559668": {
         "data": [
             {
                 "type": "object",
@@ -1488,26 +1040,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.198748014229432,
-                    0.8890752532495706,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873857": {
+    "1677632903.655968": {
         "data": [
             {
                 "type": "object",
@@ -1540,26 +1076,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.163756064417642,
-                    0.8887099380727561,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873874": {
+    "1677632903.65597": {
         "data": [
             {
                 "type": "object",
@@ -1592,26 +1112,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.128756213990354,
-                    0.8883538806242576,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873893": {
+    "1677632903.6559713": {
         "data": [
             {
                 "type": "object",
@@ -1644,26 +1148,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.058759996782602,
-                    0.8876665158050648,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873908": {
+    "1677632903.6559722": {
         "data": [
             {
                 "type": "object",
@@ -1696,26 +1184,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -9.023761773556062,
-                    0.8873369449402596,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873922": {
+    "1677632903.6559737": {
         "data": [
             {
                 "type": "object",
@@ -1748,26 +1220,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.988762303164773,
-                    0.8870168410490912,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4873946": {
+    "1677632903.6559756": {
         "data": [
             {
                 "type": "object",
@@ -1800,26 +1256,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.95376103428524,
-                    0.886706169240954,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487397": {
+    "1677632903.6559768": {
         "data": [
             {
                 "type": "object",
@@ -1852,26 +1292,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.918757754887109,
-                    0.8864051233245193,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487399": {
+    "1677632903.655978": {
         "data": [
             {
                 "type": "object",
@@ -1904,26 +1328,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.883766643925783,
-                    0.886111646895652,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874008": {
+    "1677632903.655979": {
         "data": [
             {
                 "type": "object",
@@ -1956,26 +1364,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.848775188174583,
-                    0.885828022832242,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487402": {
+    "1677632903.6559813": {
         "data": [
             {
                 "type": "object",
@@ -2008,26 +1400,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.813783609952264,
-                    0.8855529086028942,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874043": {
+    "1677632903.6559823": {
         "data": [
             {
                 "type": "object",
@@ -2060,26 +1436,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.778791937102254,
-                    0.8852860512700111,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874067": {
+    "1677632903.6559837": {
         "data": [
             {
                 "type": "object",
@@ -2112,26 +1472,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.743800706804576,
-                    0.8850272428444741,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874082": {
+    "1677632903.6559856": {
         "data": [
             {
                 "type": "object",
@@ -2164,26 +1508,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.708808973038112,
-                    0.8847758067255047,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874096": {
+    "1677632903.655987": {
         "data": [
             {
                 "type": "object",
@@ -2216,26 +1544,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.638824743218692,
-                    0.884295039623847,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874115": {
+    "1677632903.6559894": {
         "data": [
             {
                 "type": "object",
@@ -2268,26 +1580,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.603832581413451,
-                    0.8840655152839926,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874136": {
+    "1677632903.6559908": {
         "data": [
             {
                 "type": "object",
@@ -2320,26 +1616,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.568840416385846,
-                    0.88384277862164,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874167": {
+    "1677632903.6559918": {
         "data": [
             {
                 "type": "object",
@@ -2372,26 +1652,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.533849989622574,
-                    0.8836265611771499,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874184": {
+    "1677632903.655994": {
         "data": [
             {
                 "type": "object",
@@ -2424,26 +1688,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.498879133109076,
-                    0.8834157884248223,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874196": {
+    "1677632903.655996": {
         "data": [
             {
                 "type": "object",
@@ -2476,26 +1724,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.463874579994375,
-                    0.8832154527722778,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874213": {
+    "1677632903.6559973": {
         "data": [
             {
                 "type": "object",
@@ -2528,26 +1760,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.428849747653919,
-                    0.8830222668379868,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874601": {
+    "1677632903.6559992": {
         "data": [
             {
                 "type": "object",
@@ -2580,26 +1796,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.393857768968907,
-                    0.8828246534679512,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874616": {
+    "1677632903.6560006": {
         "data": [
             {
                 "type": "object",
@@ -2632,26 +1832,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.358865584189092,
-                    0.882633329598085,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487464": {
+    "1677632903.6560025": {
         "data": [
             {
                 "type": "object",
@@ -2684,26 +1868,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.323873348348146,
-                    0.8824475737862026,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874651": {
+    "1677632903.656004": {
         "data": [
             {
                 "type": "object",
@@ -2736,26 +1904,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.28888107586809,
-                    0.8822673615410965,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874675": {
+    "1677632903.656005": {
         "data": [
             {
                 "type": "object",
@@ -2788,26 +1940,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.253888777566488,
-                    0.8820924082106442,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487469": {
+    "1677632903.6560078": {
         "data": [
             {
                 "type": "object",
@@ -2840,26 +1976,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.21889645985098,
-                    0.8819226797620832,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487472": {
+    "1677632903.656009": {
         "data": [
             {
                 "type": "object",
@@ -2892,26 +2012,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.183904126941226,
-                    0.8817580344250002,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874735": {
+    "1677632903.6560102": {
         "data": [
             {
                 "type": "object",
@@ -2944,26 +2048,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.113920945355773,
-                    0.8814431311089209,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487477": {
+    "1677632903.6560113": {
         "data": [
             {
                 "type": "object",
@@ -2996,26 +2084,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.078916920326954,
-                    0.8812967325372859,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874783": {
+    "1677632903.6560125": {
         "data": [
             {
                 "type": "object",
@@ -3048,26 +2120,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.043898833701412,
-                    0.8811549354084244,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874794": {
+    "1677632903.656015": {
         "data": [
             {
                 "type": "object",
@@ -3100,26 +2156,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -8.008875924356493,
-                    0.8810157144498049,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487481": {
+    "1677632903.6560168": {
         "data": [
             {
                 "type": "object",
@@ -3152,26 +2192,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.9738767670335555,
-                    0.8808749071214224,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874823": {
+    "1677632903.6560183": {
         "data": [
             {
                 "type": "object",
@@ -3204,26 +2228,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.938884331877951,
-                    0.880736925486292,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874854": {
+    "1677632903.6560214": {
         "data": [
             {
                 "type": "object",
@@ -3256,26 +2264,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.903892033280336,
-                    0.8806030416993677,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874866": {
+    "1677632903.6560225": {
         "data": [
             {
                 "type": "object",
@@ -3308,26 +2300,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.833907861057008,
-                    0.8803464343152294,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487489": {
+    "1677632903.6560235": {
         "data": [
             {
                 "type": "object",
@@ -3360,26 +2336,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.79891527265236,
-                    0.8802236489479258,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874904": {
+    "1677632903.656059": {
         "data": [
             {
                 "type": "object",
@@ -3412,26 +2372,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.72892999714166,
-                    0.8799890450265158,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874926": {
+    "1677632903.6560605": {
         "data": [
             {
                 "type": "object",
@@ -3464,26 +2408,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.72892999714166,
-                    0.8799890450265158,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874942": {
+    "1677632903.6560624": {
         "data": [
             {
                 "type": "object",
@@ -3516,26 +2444,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.693937454855609,
-                    0.8798770334622354,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874973": {
+    "1677632903.6560638": {
         "data": [
             {
                 "type": "object",
@@ -3568,26 +2480,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.658953872588928,
-                    0.8797679824945561,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4874985": {
+    "1677632903.6560657": {
         "data": [
             {
                 "type": "object",
@@ -3620,26 +2516,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.623949448305243,
-                    0.8796619993289785,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487501": {
+    "1677632903.6560671": {
         "data": [
             {
                 "type": "object",
@@ -3672,26 +2552,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.553907538379964,
-                    0.8794624066462328,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487502": {
+    "1677632903.656068": {
         "data": [
             {
                 "type": "object",
@@ -3724,26 +2588,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.518881682488701,
-                    0.8793655299604433,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875045": {
+    "1677632903.656069": {
         "data": [
             {
                 "type": "object",
@@ -3776,26 +2624,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.4838554017072,
-                    0.8792706997871194,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875062": {
+    "1677632903.6560714": {
         "data": [
             {
                 "type": "object",
@@ -3828,26 +2660,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.448861124028827,
-                    0.8791736683275573,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875093": {
+    "1677632903.6560745": {
         "data": [
             {
                 "type": "object",
@@ -3880,26 +2696,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.413868554113192,
-                    0.8790794812346798,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875116": {
+    "1677632903.6560757": {
         "data": [
             {
                 "type": "object",
@@ -3932,26 +2732,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.378875976542296,
-                    0.8789880210262941,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875128": {
+    "1677632903.656077": {
         "data": [
             {
                 "type": "object",
@@ -3984,26 +2768,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.343883397757144,
-                    0.8788992123006816,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875143": {
+    "1677632903.6560788": {
         "data": [
             {
                 "type": "object",
@@ -4036,26 +2804,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.273898246133641,
-                    0.8787292458659405,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875157": {
+    "1677632903.6560802": {
         "data": [
             {
                 "type": "object",
@@ -4088,26 +2840,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.238905669433632,
-                    0.8786480102503891,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875195": {
+    "1677632903.6560814": {
         "data": [
             {
                 "type": "object",
@@ -4140,26 +2876,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.2039130803838605,
-                    0.8785691437105951,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875207": {
+    "1677632903.6560833": {
         "data": [
             {
                 "type": "object",
@@ -4192,26 +2912,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.168931084746221,
-                    0.878491970781706,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875224": {
+    "1677632903.6560848": {
         "data": [
             {
                 "type": "object",
@@ -4244,26 +2948,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.168931084746221,
-                    0.878491970781706,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875236": {
+    "1677632903.6560857": {
         "data": [
             {
                 "type": "object",
@@ -4296,26 +2984,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.133912163557188,
-                    0.8784180718424164,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487526": {
+    "1677632903.656087": {
         "data": [
             {
                 "type": "object",
@@ -4348,26 +3020,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.098888096872223,
-                    0.878345951698568,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487528": {
+    "1677632903.656088": {
         "data": [
             {
                 "type": "object",
@@ -4400,26 +3056,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -7.063896003975729,
-                    0.8782730071141104,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875305": {
+    "1677632903.6560903": {
         "data": [
             {
                 "type": "object",
@@ -4452,26 +3092,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.993910679506944,
-                    0.8781332596076944,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875329": {
+    "1677632903.6560931": {
         "data": [
             {
                 "type": "object",
@@ -4504,26 +3128,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.958921415114576,
-                    0.878066242833748,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487534": {
+    "1677632903.6560946": {
         "data": [
             {
                 "type": "object",
@@ -4556,26 +3164,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.92392903175534,
-                    0.878001181252931,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875362": {
+    "1677632903.6560957": {
         "data": [
             {
                 "type": "object",
@@ -4608,26 +3200,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.888936375605334,
-                    0.8779379066510012,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875374": {
+    "1677632903.6560967": {
         "data": [
             {
                 "type": "object",
@@ -4660,26 +3236,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.818951211732947,
-                    0.8778169344521892,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487539": {
+    "1677632903.6561024": {
         "data": [
             {
                 "type": "object",
@@ -4712,26 +3272,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.783966103626676,
-                    0.8777587724709615,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875412": {
+    "1677632903.6561036": {
         "data": [
             {
                 "type": "object",
@@ -4764,26 +3308,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.713985011320947,
-                    0.8776456407319576,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875436": {
+    "1677632903.6561048": {
         "data": [
             {
                 "type": "object",
@@ -4816,26 +3344,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.6789923112987495,
-                    0.8775915532475723,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875448": {
+    "1677632903.6561077": {
         "data": [
             {
                 "type": "object",
@@ -4868,26 +3380,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.643999571080519,
-                    0.8775390656834454,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875474": {
+    "1677632903.6561089": {
         "data": [
             {
                 "type": "object",
@@ -4920,26 +3416,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.609006800657715,
-                    0.8774881092402068,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875498": {
+    "1677632903.6561103": {
         "data": [
             {
                 "type": "object",
@@ -4972,26 +3452,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.574014011783559,
-                    0.8774386348127624,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487552": {
+    "1677632903.6561115": {
         "data": [
             {
                 "type": "object",
@@ -5024,26 +3488,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.539021247090858,
-                    0.8773905873968373,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487557": {
+    "1677632903.6561134": {
         "data": [
             {
                 "type": "object",
@@ -5076,26 +3524,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.504029823514745,
-                    0.8773449007090053,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875584": {
+    "1677632903.6561146": {
         "data": [
             {
                 "type": "object",
@@ -5128,26 +3560,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.469037117071585,
-                    0.8773000720495453,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875598": {
+    "1677632903.6561182": {
         "data": [
             {
                 "type": "object",
@@ -5180,26 +3596,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.434044418616438,
-                    0.8772565652023365,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875612": {
+    "1677632903.6561196": {
         "data": [
             {
                 "type": "object",
@@ -5232,26 +3632,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.399051729888097,
-                    0.8772143161810492,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875636": {
+    "1677632903.656122": {
         "data": [
             {
                 "type": "object",
@@ -5284,26 +3668,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.364059048605606,
-                    0.8771732880397396,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875658": {
+    "1677632903.656123": {
         "data": [
             {
                 "type": "object",
@@ -5336,26 +3704,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.329066366247095,
-                    0.8771334815762368,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875681": {
+    "1677632903.656124": {
         "data": [
             {
                 "type": "object",
@@ -5388,26 +3740,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.294083367637636,
-                    0.8770945747166081,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875696": {
+    "1677632903.656125": {
         "data": [
             {
                 "type": "object",
@@ -5440,26 +3776,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.259087703693637,
-                    0.8770545855987139,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487572": {
+    "1677632903.6561265": {
         "data": [
             {
                 "type": "object",
@@ -5492,26 +3812,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.224062110963095,
-                    0.8770167402892273,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875734": {
+    "1677632903.6561294": {
         "data": [
             {
                 "type": "object",
@@ -5544,26 +3848,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.189055299056626,
-                    0.876978935037812,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875748": {
+    "1677632903.6561306": {
         "data": [
             {
                 "type": "object",
@@ -5596,26 +3884,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.154062606148831,
-                    0.8769415364937967,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875777": {
+    "1677632903.6561315": {
         "data": [
             {
                 "type": "object",
@@ -5648,26 +3920,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.119069892228724,
-                    0.8769052247425803,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875798": {
+    "1677632903.656134": {
         "data": [
             {
                 "type": "object",
@@ -5700,26 +3956,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.08407717123996,
-                    0.8768699652681192,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875815": {
+    "1677632903.656135": {
         "data": [
             {
                 "type": "object",
@@ -5752,26 +3992,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.049084452227539,
-                    0.8768357255604584,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4875827": {
+    "1677632903.6561363": {
         "data": [
             {
                 "type": "object",
@@ -5804,26 +4028,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -6.014095547489063,
-                    0.8768021216840803,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487584": {
+    "1677632903.6561382": {
         "data": [
             {
                 "type": "object",
@@ -5856,26 +4064,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.979103125059762,
-                    0.8767695242187046,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876032": {
+    "1677632903.6561396": {
         "data": [
             {
                 "type": "object",
@@ -5908,26 +4100,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.944110820875184,
-                    0.8767378558990029,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876065": {
+    "1677632903.6561406": {
         "data": [
             {
                 "type": "object",
@@ -5960,26 +4136,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.90912529740364,
-                    0.8767066492747322,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487608": {
+    "1677632903.6561418": {
         "data": [
             {
                 "type": "object",
@@ -6012,26 +4172,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.839110041346448,
-                    0.8766427674598593,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876094": {
+    "1677632903.656143": {
         "data": [
             {
                 "type": "object",
@@ -6064,26 +4208,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.804087640193288,
-                    0.876612486061347,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876106": {
+    "1677632903.6561449": {
         "data": [
             {
                 "type": "object",
@@ -6116,26 +4244,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.769062035097412,
-                    0.876582330264468,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876175": {
+    "1677632903.6561463": {
         "data": [
             {
                 "type": "object",
@@ -6168,26 +4280,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.734047599979562,
-                    0.8765524899847638,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876194": {
+    "1677632903.656148": {
         "data": [
             {
                 "type": "object",
@@ -6220,26 +4316,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.699054902482408,
-                    0.8765225822529397,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876215": {
+    "1677632903.65615": {
         "data": [
             {
                 "type": "object",
@@ -6272,26 +4352,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.664062189273375,
-                    0.8764935563937433,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487623": {
+    "1677632903.6561513": {
         "data": [
             {
                 "type": "object",
@@ -6324,26 +4388,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.629069473234913,
-                    0.8764653688098709,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876254": {
+    "1677632903.6561534": {
         "data": [
             {
                 "type": "object",
@@ -6376,26 +4424,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.594076761636296,
-                    0.8764380152355998,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487628": {
+    "1677632903.6561544": {
         "data": [
             {
                 "type": "object",
@@ -6428,26 +4460,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.524091365286146,
-                    0.8763856728305591,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876294": {
+    "1677632903.6561556": {
         "data": [
             {
                 "type": "object",
@@ -6480,26 +4496,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.489098679693861,
-                    0.8763606575558309,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876313": {
+    "1677632903.6561584": {
         "data": [
             {
                 "type": "object",
@@ -6532,26 +4532,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.454105993651677,
-                    0.8763363860683177,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487633": {
+    "1677632903.6561596": {
         "data": [
             {
                 "type": "object",
@@ -6584,26 +4568,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.454105993651677,
-                    0.8763363860683177,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876351": {
+    "1677632903.6561608": {
         "data": [
             {
                 "type": "object",
@@ -6636,26 +4604,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.384106877767252,
-                    0.8762874503857974,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876368": {
+    "1677632903.656162": {
         "data": [
             {
                 "type": "object",
@@ -6688,26 +4640,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.349081859671904,
-                    0.8762639431817851,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487638": {
+    "1677632903.656163": {
         "data": [
             {
                 "type": "object",
@@ -6740,26 +4676,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.314065676214966,
-                    0.8762401454720359,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876392": {
+    "1677632903.6561642": {
         "data": [
             {
                 "type": "object",
@@ -6792,26 +4712,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.279072985142946,
-                    0.8762168268828866,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876425": {
+    "1677632903.6561654": {
         "data": [
             {
                 "type": "object",
@@ -6844,26 +4748,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.244080264377545,
-                    0.876194151009469,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876456": {
+    "1677632903.6561682": {
         "data": [
             {
                 "type": "object",
@@ -6896,26 +4784,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.2090875352206325,
-                    0.8761721286757441,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876473": {
+    "1677632903.6561692": {
         "data": [
             {
                 "type": "object",
@@ -6948,26 +4820,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.139105729628179,
-                    0.8761297857619071,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876485": {
+    "1677632903.6561706": {
         "data": [
             {
                 "type": "object",
@@ -7000,26 +4856,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.104113419904348,
-                    0.8761093183500274,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876509": {
+    "1677632903.6561716": {
         "data": [
             {
                 "type": "object",
@@ -7052,26 +4892,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -5.069121183881629,
-                    0.8760893921613095,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876523": {
+    "1677632903.6561728": {
         "data": [
             {
                 "type": "object",
@@ -7104,26 +4928,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.999138833128441,
-                    0.8760471343077505,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876547": {
+    "1677632903.6561747": {
         "data": [
             {
                 "type": "object",
@@ -7156,26 +4964,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.964121386947432,
-                    0.8760269529312736,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487656": {
+    "1677632903.6561775": {
         "data": [
             {
                 "type": "object",
@@ -7208,26 +5000,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.894074184782596,
-                    0.8759862902338871,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876575": {
+    "1677632903.6561787": {
         "data": [
             {
                 "type": "object",
@@ -7260,26 +5036,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.7890739201689545,
-                    0.8759258081548421,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876595": {
+    "1677632903.6561804": {
         "data": [
             {
                 "type": "object",
@@ -7312,26 +5072,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.7190884698207505,
-                    0.8758882207143549,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876618": {
+    "1677632903.6561818": {
         "data": [
             {
                 "type": "object",
@@ -7364,26 +5108,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.6491030524510215,
-                    0.8758528319059826,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487665": {
+    "1677632903.656183": {
         "data": [
             {
                 "type": "object",
@@ -7416,26 +5144,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.579117665281699,
-                    0.8758194698109621,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876661": {
+    "1677632903.656185": {
         "data": [
             {
                 "type": "object",
@@ -7468,26 +5180,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.5090997800091435,
-                    0.8757880965822776,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876685": {
+    "1677632903.656186": {
         "data": [
             {
                 "type": "object",
@@ -7520,26 +5216,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.439050472323383,
-                    0.8757571225251791,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876697": {
+    "1677632903.6561882": {
         "data": [
             {
                 "type": "object",
@@ -7572,26 +5252,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.369065543436219,
-                    0.8757270959764899,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876714": {
+    "1677632903.6561894": {
         "data": [
             {
                 "type": "object",
@@ -7624,26 +5288,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.2640873594037725,
-                    0.8756850990977516,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876726": {
+    "1677632903.6561904": {
         "data": [
             {
                 "type": "object",
@@ -7676,26 +5324,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.194106375760572,
-                    0.8756584090962959,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876757": {
+    "1677632903.6561925": {
         "data": [
             {
                 "type": "object",
@@ -7728,26 +5360,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.159120707228217,
-                    0.8756451508611122,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487677": {
+    "1677632903.6561956": {
         "data": [
             {
                 "type": "object",
@@ -7780,26 +5396,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -4.089109052262877,
-                    0.8756148337147329,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876785": {
+    "1677632903.6561968": {
         "data": [
             {
                 "type": "object",
@@ -7832,26 +5432,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.984045236980554,
-                    0.8755706782158517,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876797": {
+    "1677632903.6561992": {
         "data": [
             {
                 "type": "object",
@@ -7884,26 +5468,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.9140598011708465,
-                    0.8755418263219109,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487682": {
+    "1677632903.6562002": {
         "data": [
             {
                 "type": "object",
@@ -7936,26 +5504,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.844074340097126,
-                    0.8755146249436394,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876842": {
+    "1677632903.6562185": {
         "data": [
             {
                 "type": "object",
@@ -7988,26 +5540,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.774088911231564,
-                    0.8754889707432602,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876864": {
+    "1677632903.65622": {
         "data": [
             {
                 "type": "object",
@@ -8040,26 +5576,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.704103516168922,
-                    0.8754647719142414,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876878": {
+    "1677632903.6562212": {
         "data": [
             {
                 "type": "object",
@@ -8092,26 +5612,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.6340891559564987,
-                    0.8754418112700675,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876893": {
+    "1677632903.6562233": {
         "data": [
             {
                 "type": "object",
@@ -8144,26 +5648,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.5640383393786133,
-                    0.8754192503123739,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876914": {
+    "1677632903.6562245": {
         "data": [
             {
                 "type": "object",
@@ -8196,26 +5684,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.4940488009981565,
-                    0.8753966784917425,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876928": {
+    "1677632903.6562264": {
         "data": [
             {
                 "type": "object",
@@ -8248,26 +5720,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.424063340763646,
-                    0.8753756009991611,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876943": {
+    "1677632903.6562276": {
         "data": [
             {
                 "type": "object",
@@ -8300,26 +5756,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.354081708591148,
-                    0.8753554713608593,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4876964": {
+    "1677632903.6562285": {
         "data": [
             {
                 "type": "object",
@@ -8352,26 +5792,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.2841020651780557,
-                    0.8753354586415457,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877005": {
+    "1677632903.65623": {
         "data": [
             {
                 "type": "object",
@@ -8404,26 +5828,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.2140954946997233,
-                    0.8753113863222451,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877021": {
+    "1677632903.656231": {
         "data": [
             {
                 "type": "object",
@@ -8456,26 +5864,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.1090285559368005,
-                    0.8752756265275279,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877033": {
+    "1677632903.656232": {
         "data": [
             {
                 "type": "object",
@@ -8508,26 +5900,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -3.0390432111547243,
-                    0.8752520492760428,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877057": {
+    "1677632903.656235": {
         "data": [
             {
                 "type": "object",
@@ -8560,26 +5936,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.9690577457889784,
-                    0.8752298564362597,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877076": {
+    "1677632903.6562362": {
         "data": [
             {
                 "type": "object",
@@ -8612,26 +5972,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.899072310968969,
-                    0.8752089195592145,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.48771": {
+    "1677632903.656238": {
         "data": [
             {
                 "type": "object",
@@ -8664,26 +6008,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.8290869123149323,
-                    0.8751891625135717,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877114": {
+    "1677632903.6562393": {
         "data": [
             {
                 "type": "object",
@@ -8716,26 +6044,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.759076959010932,
-                    0.8751702911712707,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.487714": {
+    "1677632903.6562407": {
         "data": [
             {
                 "type": "object",
@@ -8768,26 +6080,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.6284048518074217,
-                    0.8751360129791274,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877152": {
+    "1677632903.6562426": {
         "data": [
             {
                 "type": "object",
@@ -8820,26 +6116,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.6128896409034765,
-                    0.8751344398052296,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877176": {
+    "1677632903.6562438": {
         "data": [
             {
                 "type": "object",
@@ -8872,26 +6152,10 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.611510710710469,
-                    0.8751339912310493,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     },
-    "1677576777.4877217": {
+    "1677632903.6562471": {
         "data": [
             {
                 "type": "object",
@@ -8924,22 +6188,6 @@
                 "label_id": 7,
                 "label_name": "car",
                 "tracking_id": 7
-            },
-            {
-                "type": "object",
-                "position": [
-                    -2.6118238447197744,
-                    0.8751342359534691,
-                    0
-                ],
-                "velocity": [
-                    0.7,
-                    0,
-                    0
-                ],
-                "label_id": 0,
-                "label_name": "car",
-                "tracking_id": 0
             }
         ]
     }
