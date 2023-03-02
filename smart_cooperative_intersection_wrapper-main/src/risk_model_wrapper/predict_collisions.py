@@ -18,7 +18,7 @@ from risk_model.event_calculators.overlap_calculator import calculate_overlaps
 from .config import UNCERTAINTY_CONFIG, ObjectType
 from .model import DataPoint
 
-from risk_model.plot.gauss import plot_gaussians
+from risk_model.plot.risk import plot_risk
 from risk_model.plot.animate import animate
 
 
@@ -45,7 +45,7 @@ def predict_collisions(
     )
 
     uncertain_trajectories = [
-        Trajectory.linear_prediction(
+        Trajectory.future_prediction(
             trajectory_id=datapoint.id,
             position=datapoint.position,
             velocity=datapoint.velocity,
@@ -81,12 +81,12 @@ def predict_collisions(
     #                 trajectory_length=trajectory_length,
     #             ).uncertain(_find_config(traffic.type) if with_types else _find_config("car")))
 
-        # events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
+    #     events = calculate_overlaps(uncertain_ego_trajectory, uncertain_trajectories)
     #     probability = compute_survival(events, delta_t=delta_t)
     #     result.append((ego, probability))
 
         # getting the risks as a list, is it the risk with respect to other vehicle. how can i define my own risk value.
-    # animate(uncertain_ego_trajectory ,uncertain_trajectories)
-    # plot_gaussians(uncertain_trajectories)
+    animate(uncertain_ego_trajectory, uncertain_trajectories)
+    # plot_risk(list(zip(datapoints, compute_survival(events, delta_t=delta_t))))
     return list(zip(datapoints, compute_survival(events, delta_t=delta_t)))
     # return result
