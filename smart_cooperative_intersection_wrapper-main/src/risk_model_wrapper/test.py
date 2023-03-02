@@ -28,14 +28,14 @@ for i in range(len(x1)):
     dictionary.update(
         {str(time.time()):
             {"data":[
-                    # {
-                    #     "type":"object",
-                    #     "position":[x1[i], y1[i], 0],
-                    #     "velocity":[0, 0.7, 0],
-                    #     "label_id": "14",
-                    #     "label_name": "car",
-                    #     "tracking_id": "14"
-                    # },
+                    {
+                        "type":"object",
+                        "position":[x1[i], y1[i], 0],
+                        "velocity":[0, 0.7, 0],
+                        "label_id": "14",
+                        "label_name": "car",
+                        "tracking_id": "14"
+                    },
                     {
                         "type":"object",
                         "position":[x2[i], y2[i], 0],
@@ -44,14 +44,14 @@ for i in range(len(x1)):
                         "label_name": "car",
                         "tracking_id": "7"
                     },
-                    # {
-                    #     "type":"object",
-                    #     "position":[x3[i], y3[i], 0],
-                    #     "velocity":[0.7, 0, 0],
-                    #     "label_id": 0,
-                    #     "label_name": "car",
-                    #     "tracking_id": 0
-                    # }
+                    {
+                        "type":"object",
+                        "position":[x3[i], y3[i], 0],
+                        "velocity":[0.7, 0, 0],
+                        "label_id": "0",
+                        "label_name": "car",
+                        "tracking_id": "0"
+                    }
                 ]
             }
         }
@@ -59,8 +59,8 @@ for i in range(len(x1)):
 
 json_object = json.dumps(dictionary, indent = 4) 
 
-with open("/home/dikshant/catkin_ws/src/CoRiMa/smart_cooperative_intersection_wrapper-main/data/Export_Honda/example1/sample.json", "w") as outfile:
-    outfile.write(json_object)
+# with open("/home/dikshant/catkin_ws/src/CoRiMa/smart_cooperative_intersection_wrapper-main/data/Export_Honda/example1/sample.json", "w") as outfile:
+#     outfile.write(json_object)
 
 for path in Path("/home/dikshant/catkin_ws/src/CoRiMa/smart_cooperative_intersection_wrapper-main/data/Export_Honda").glob("*"):
     honda_export_file_path = path.joinpath("sample.json")

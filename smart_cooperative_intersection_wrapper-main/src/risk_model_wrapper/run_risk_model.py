@@ -81,7 +81,8 @@ def _annotate_input_data_with_risk(
     for data_point, probability in result:
         for element in return_data["data"]:
             if element["tracking_id"] == data_point.id:
-                element["risk"] = probability
+                # element["risk"] = probability
+                element["risk"] = max(probability)  # list of prob because of multiple vehicles
                 break
     return return_data
 
