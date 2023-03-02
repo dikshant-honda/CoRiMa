@@ -28,21 +28,21 @@ for i in range(len(x1)):
     dictionary.update(
         {str(time.time()):
             {"data":[
-                    # {
-                    #     "type":"object",
-                    #     "position":[x1[i], y1[i], 0],
-                    #     "velocity":[0, 0.7, 0],
-                    #     "label_id": 14,
-                    #     "label_name": "car",
-                    #     "tracking_id": 14
-                    # },
+                    {
+                        "type":"object",
+                        "position":[x1[i], y1[i], 0],
+                        "velocity":[0, 0.7, 0],
+                        "label_id": "14",
+                        "label_name": "car",
+                        "tracking_id": "14"
+                    },
                     {
                         "type":"object",
                         "position":[x2[i], y2[i], 0],
                         "velocity":[0.6, 0, 0],
-                        "label_id": 7,
+                        "label_id": "7",
                         "label_name": "car",
-                        "tracking_id": 7
+                        "tracking_id": "7"
                     },
                     # {
                     #     "type":"object",
